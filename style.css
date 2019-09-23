@@ -15,7 +15,10 @@ nav>a {
 }
 
 img {
-  margin: ;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
 }
 
 figcaption {
