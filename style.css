@@ -19,12 +19,11 @@ figcaption {
   text-align: center;
 }
 
-img {
-  margin: auto;
-  text-align: center;
-  
-  
-}
+img{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;      
+ }
 p {
   text-align: center;
 }
