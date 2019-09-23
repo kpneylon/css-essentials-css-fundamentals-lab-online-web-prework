@@ -7,9 +7,10 @@ body {
 #details {
   display:block;
   text-align: center;
-  background-color:	#FF0000;
+  
 }
 div {
   float: left;
   width: 25%;
+  background-color:	#FF0000;
 }
