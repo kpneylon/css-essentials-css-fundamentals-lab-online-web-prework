@@ -4,8 +4,4 @@ body {
   margin: 0;
   
 }
-#details {
-  display: block;
-  background-color: #eb3434;
-  
-}
+div.span {text-align: center;}
