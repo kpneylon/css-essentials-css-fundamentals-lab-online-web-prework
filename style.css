@@ -19,11 +19,6 @@ figcaption {
   text-align: center;
 }
 
-.center {
-    position: absolute;
-    transform: translateX(-50%);
-    left: 50%;
-}
 p {
   text-align: center;
 }
