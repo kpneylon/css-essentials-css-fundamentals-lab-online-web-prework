@@ -11,6 +11,8 @@ h1 {
 nav>a {
   text-align: center;
    background-color: #FFFF00;
+   padding-left: 10px;
+  padding-right: 10px;
 }
 
 figcaption {
@@ -19,8 +21,7 @@ figcaption {
 }
 
 a {
-  padding-left: 10px;
-  padding-right: 10px;
+  
  
 }
 
